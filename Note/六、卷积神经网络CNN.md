@@ -2,7 +2,7 @@
 
 ## 六、卷积神经网络CNN
 
-[github对应md文档]()
+[github对应md文档](https://github.com/phww/Andrew.Ng-ML-Study/tree/main/Note)
 
 [参考视频：吴恩达深度学习第三课-卷积神经网络week1-2](https://www.bilibili.com/video/BV1F4411y7o7?p=1)
 
